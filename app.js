@@ -1,1 +1,1 @@
-console.log('in 3.0.6&');
+console.log('in 4.0.0');
