@@ -1,6 +1,6 @@
 {
   "name": "ms-project-publish-test",
-  "version": "4.0.1",
+  "version": "4.0.9",
   "description": "test",
   "main": "app.js",
   "scripts": {
@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/mskorenkyi/ms-project-publish-test#readme",
   "dependencies": {
-    "lodash": "^4.17.21",
-    "moment": "^2.29.4"
+    "lodash": "4.10.0",
+    "moment": "2.14.1"
   }
 }
