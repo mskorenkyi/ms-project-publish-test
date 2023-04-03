@@ -1,6 +1,6 @@
 {
   "name": "ms-project-publish-test",
-  "version": "4.0.10",
+  "version": "4.0.11",
   "description": "test",
   "main": "app.js",
   "scripts": {
